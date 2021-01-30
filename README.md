@@ -3,7 +3,7 @@ scaled dot-product attention visualization (single head) (as described in https:
 The value behind b is -1 and the value behind a is 1; the goal is to find a routing using scaled dot-product attention that gets the output 1 (target). <br/>
 
 <img src= "https://github.com/MOVzeroOne/attention-visualized/blob/master/formula.PNG">
-<img src="https://github.com/MOVzeroOne/attention-visualized/blob/master/attention.PNG">
+![](run_attention.gif)
 
 Subplots: <br/>
 The first subplot shows how much is attended to each parameter a and b. <br/>

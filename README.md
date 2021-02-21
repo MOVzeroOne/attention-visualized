@@ -7,6 +7,6 @@ The value behind b is -1 and the value behind a is 1; the goal is to find a rout
 ![](run_attention.gif)
 
 Subplots: <br/>
-The first subplot shows how much is attended to each parameter a and b. <br/>
+The first subplot shows how much is attended to each parameter a (value: 1) and b (value: -1). <br/>
 The second subplot shows the key vectors corresponding to a,b and the query (embedding). <br/>
 The final subplot shows the output and the target line. <br/>

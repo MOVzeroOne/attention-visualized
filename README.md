@@ -1,5 +1,5 @@
 # attention-visualized
-scaled dot-product attention visualization (single head) (as described in https://arxiv.org/pdf/1706.03762.pdf)<br/>
+scaled dot-product attention visualization (single head) (as described in Attention Is All You Need arXiv:1706.03762)<br/>
 The value behind b is -1 and the value behind a is 1; the goal is to find a routing using scaled dot-product attention that gets the output 1 (target). <br/>
 
 <img src= "https://github.com/MOVzeroOne/attention-visualized/blob/master/formula.PNG">
